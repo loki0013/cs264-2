@@ -1,0 +1,98 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="9CE88E8C-C8BD-4F0E-B5E6-6746627B8D89" platform="MtWeb" defaultW="1600" defaultH="900" measureW="1600" measureH="900" mobileScreenScale="0">
+  <controls controlCount="10">
+    <control controlID="56D35E7C-F049-4E99-98FF-869E26C9C94C" controlTypeID="Image" x="0" y="0" w="1600" h="900" zOrder="0">
+      <opacity>0.699999988079071</opacity>
+      <URL>3A2A70BD316089F41CA5E111ECA0D261.jpg</URL>
+    </control>
+    <control controlID="D49FEE31-65E8-4C36-9774-C68A5C5DE9B4" controlTypeID="Image" x="635" y="66" w="322" h="306" zOrder="1">
+      <caption>Logo</caption>
+      <URL>DF97C5A7998730E53AB900B954954407.png</URL>
+    </control>
+    <control controlID="CE29A360-4829-4E40-868C-995EA3427339" controlTypeID="TextInput" x="674" y="413" w="243" h="45" zOrder="2">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <textSize>12</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <placeHolder>Username</placeHolder>
+      <radius>8</radius>
+    </control>
+    <control controlID="95EF5954-395B-470B-A1D5-782B18D936AB" controlTypeID="TextInput" x="674" y="504" w="243" h="45" zOrder="3">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <textSize>12</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <placeHolder>Password</placeHolder>
+      <inputModel>emPassword</inputModel>
+      <radius>8</radius>
+    </control>
+    <control controlID="80B71F31-C15C-4F9B-A51B-201E7DE0EBBB" controlTypeID="Label" x="10" y="879" w="31" h="16" zOrder="4">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Terms</text>
+      <textColor>4294967295</textColor>
+      <textSize>12</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="ECD9D28C-78BC-46F6-832A-54BC9108FE3A" controlTypeID="Label" x="63" y="879" w="37" h="16" zOrder="5">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Privacy</text>
+      <textColor>4294967295</textColor>
+      <textSize>12</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="A7B30C01-331C-46E8-A0C0-6684D660B0F5" controlTypeID="Label" x="123" y="879" w="23" h="16" zOrder="6">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Jobs</text>
+      <textColor>4294967295</textColor>
+      <textSize>12</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="876E927A-DBC5-49BA-A444-0826D31A27C0" controlTypeID="Label" x="158" y="879" w="43" h="16" zOrder="7">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Support</text>
+      <textColor>4294967295</textColor>
+      <textSize>12</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="1B23D371-0BF0-451F-9E81-6AED6A65BBFD" controlTypeID="Label" x="797" y="549" w="120" h="19" zOrder="8">
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>Forgot+Password+%3F</text>
+      <textColor>4294967295</textColor>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="0BBDB7F7-7A69-446F-9B31-8E8480681A29" controlTypeID="Button" x="700" y="606" w="190" h="40" zOrder="9">
+      <color>2996410777</color>
+      <borderColor>4294967295</borderColor>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="2F2AFADC-33CF-43DE-9903-2F40A6901A50" linkType="ltPageLink" isApplyIncludePage="False" title="%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81">
+          <area shape="0" alt="" ID="{FB1F0B30-D50B-4C77-BB8C-D35F51939EA0}" coords="(0,0,190,40)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>Log+in</text>
+      <textColor>4294967295</textColor>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>14</radius>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>
